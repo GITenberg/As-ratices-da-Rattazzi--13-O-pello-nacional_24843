@@ -1,0 +1,27 @@
+_repo: As-ratices-da-Rattazzi--13-O-pello-nacional_24843
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Monteiro, Ramalho
+    alias: Ramalho Monteiro
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '26766'
+    url: http://www.gutenberg.org/2009/agents/26766
+description: ''
+gutenberg_issued: '2008-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24843'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rattazzi, Marie, 1833-1902'
+- !lcc 'DP'
+title: 'As ratices da Rattazzi: O pello nacional'
+url: http://www.gutenberg.org/ebooks/24843
